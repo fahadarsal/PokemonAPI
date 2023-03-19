@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{16B7562A-4071-4EEE-895A-4091F6918573}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PokemonAPI PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PokemonAPI/Controllers/PokemonController.cs">
+    <Files>
+      <File FileName="PokemonAPI/Controllers/WeatherForecastController.cs" Line="24" Column="1" />
+      <File FileName="PokemonAPI/Pokemon.json" Line="1047" Column="5" />
+      <File FileName="PokemonAPI/WeatherForecast.cs" Line="3" Column="1" />
+      <File FileName="PokemonAPI/Controllers/HomeController.cs" Line="5" Column="32" />
+      <File FileName="PokemonAPI/Controllers/ValuesController.cs" Line="5" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PokemonAPI" expanded="True">
+            <Node name="PokemonAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PokemonController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
